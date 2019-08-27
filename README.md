@@ -1,2 +1,2 @@
 # HelloWorld
-Just stepped into github.
+Just stepped into GitHub.
